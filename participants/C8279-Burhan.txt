@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-"Hello from C8279-Burhan
-=======
-"C8279-Burhan.txt"
->>>>>>> developer-C8279-Burhan
